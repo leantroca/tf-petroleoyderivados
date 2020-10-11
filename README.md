@@ -8,9 +8,10 @@
 ##### Tutor: Victor Hugo Gorosito
 ##### Título: Análisis cualitativo de datos históricos de producción No-convencional en Argentina
   
-##### Actualización: 11/10/2020
+> ##### Actualización: 11/10/2020
+> En este repositorio se puede encontrar la última versión del presente trabajo.
 
-En este repositorio se puede encontrar la última versión del presente trabajo.
+![Vaca Muerta, Argentina](images/vaca-muerta-neuquen.jpg)
 
 ### Índice
 
