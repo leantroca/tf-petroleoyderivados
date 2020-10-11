@@ -15,25 +15,25 @@
 
 ### Índice
 
-1. Introducción
+1. Introducción  
 	Breve reseña del estado del arte y motivación del trabajo.
-2. Origen de los datos
+2. Origen de los datos  
 	Detalle de trazabilidad al origen de los datasets utilizados.
-3. Metodología
+3. Metodología  
 	Breve explicación teórica de conceptos utilizados para el análisis.
-4. Análisis de datos exploratorio
+4. Análisis de datos exploratorio  
 	Análisis cuantitativo. Tendencias y observaciones.
-	1. Estado actual de la industria
+	1. Estado actual de la industria  
 		Análisis de datos más recientes. Empresas, yacimientos, tecnologías más predominantes.
-	2. Comparativa convencional vs No-convencional
+	2. Comparativa convencional vs No-convencional  
 		Análisis de datos relativos a la producción total en el país. 
-	3. Comparativa tight vs shale
+	3. Comparativa tight vs shale  
 		Análisis de datos relativos a la producción no convencional en el país.
-5. Análisis de datos experimental
+5. Análisis de datos experimental  
 	Análisis cualitativo. Clasificación y búsqueda de patrones.
-6. Conclusiones
+6. Conclusiones  
 	Observaciones más remarcables.
-7. Bibliografía
+7. Bibliografía  
 	En caso de ser necesaria.
 
 ### Datasets
